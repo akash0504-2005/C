@@ -24,4 +24,4 @@ int main() {
 
 //output
 Enter the element to search: 30
-Element found at index 2
+Element found at index  2
