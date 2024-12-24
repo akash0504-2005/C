@@ -8,7 +8,7 @@ int main() {
     scanf("%d", &key);
 
     while (low <= high) {
-        mid = (low + high) / 2;
+        mid = (low + high) / 2 ;
 
         if (arr[mid] == key) {
             printf("Element found at index %d\n", mid);
